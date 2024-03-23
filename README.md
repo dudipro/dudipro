@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Django, Pandas, Dart, Flutter**
 
-- 📫 How to reach me **dudi7046@gmail.com, +256773117046**
+- 📫 How to reach me **dudi7046@gmail.com, adaudi@idi.co.ug, +256773117046**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
