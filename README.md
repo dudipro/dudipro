@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asiimwe Daudi (dudipro)</h1>
-<h3 align="center">A passionate Software developer from Uganda, Crafting Innovative Solutions for Web, Desktop, and Mobile with 5 Years of Expertise</h3>
+<h3 align="center">A passionate Software developer from Uganda, Crafting Innovative Solutions for Web, Desktop, and Mobile with 7 Years of Expertise</h3>
 
 <p align="left"> <a href="https://twitter.com/dudi_pro" target="blank"><img src="https://img.shields.io/twitter/follow/dudi_pro?logo=twitter&style=for-the-badge" alt="dudi_pro" /></a> </p>
 
