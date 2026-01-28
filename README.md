@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Asiimwe Daudi (dudipro)</h1>
 <h3 align="center">A passionate Software Developer from Uganda, designing and delivering enterprise-grade digital solutions across web, desktop, and mobile platforms, with 7+ years of experience building scalable systems and microservice ecosystems.</h3>
 
-<p align="left"> <a href="https://twitter.com/dudi_pro" target="blank"><img src="https://img.shields.io/twitter/follow/dudi_pro?logo=twitter&style=for-the-badge" alt="dudi_pro" /></a> </p>
 
-- 🔭 I’m currently working on **Python and flutter projects**
+- 🔭 Currently building an **enterprise-grade ERP application**
 
-- 🌱 I’m currently learning **Machine Learning using python**
+- 🌱 Actively exporing **Machine Learning, data-driven systems, and AI** to enhance real-world software solutions
 
-- 👯 I’m looking to collaborate on **Python, and Flutter projects**
+- 👯 Open to collaborating on **enterprise, health-tech, and scalable product development projects**
 
-- 💬 Ask me about **Python, Django, Pandas, Dart, Flutter**
+- 💬 Ask me about **Spring Boot, Django, Flutter, Vue.js, system architecture, microservices, and enterprise-grade development**
 
 - 📫 How to reach me **dudi7046@gmail.com, +256773117046**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dudi_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dudi_pro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asiimwe-daudi-809881136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asiimwe-daudi-809881136" height="30" width="40" /></a>
 </p>
 
