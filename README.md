@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daudi Asiimwe (Dudi Pro)</h1>
-<h3 align="center">A passionate frontend developer fromA passionate Software Developer from Uganda, designing and delivering enterprise-grade digital solutions across web, desktop, and mobile platforms, with 7+ years of experience building scalable systems and microservice ecosystems. India</h3>
+<h3 align="center">A passionate frontend developer fromA passionate Software Developer from Uganda, designing and delivering enterprise-grade digital solutions across web, desktop, and mobile platforms, with 7+ years of experience building scalable systems and microservice ecosystems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudipro&label=Profile%20views&color=0e75b6&style=flat" alt="dudipro" /> </p>
 
